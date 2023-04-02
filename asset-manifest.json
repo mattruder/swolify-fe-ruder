@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/swolify-fe-ruder/swolify-fe/static/css/main.b31f8a55.css",
+    "main.js": "/swolify-fe-ruder/swolify-fe/static/js/main.e30b5606.js",
+    "static/js/787.0d80d98b.chunk.js": "/swolify-fe-ruder/swolify-fe/static/js/787.0d80d98b.chunk.js",
+    "static/media/sunset.webp": "/swolify-fe-ruder/swolify-fe/static/media/sunset.12c9b357ed94770d9a1a.webp",
+    "static/media/bunny-icon.png": "/swolify-fe-ruder/swolify-fe/static/media/bunny-icon.9eab3a83be8e5c6ea254.png",
+    "static/media/other-cow-icon.png": "/swolify-fe-ruder/swolify-fe/static/media/other-cow-icon.b43d7c447772c29d8fbe.png",
+    "static/media/dog-icon.png": "/swolify-fe-ruder/swolify-fe/static/media/dog-icon.a879eaae3ae9d03f5725.png",
+    "static/media/cow-icon.png": "/swolify-fe-ruder/swolify-fe/static/media/cow-icon.ca51de0c9bd33ef008ae.png",
+    "static/media/Swolify-logo.png": "/swolify-fe-ruder/swolify-fe/static/media/Swolify-logo.dd45ca9f581444d61c10.png",
+    "index.html": "/swolify-fe-ruder/swolify-fe/index.html",
+    "main.b31f8a55.css.map": "/swolify-fe-ruder/swolify-fe/static/css/main.b31f8a55.css.map",
+    "main.e30b5606.js.map": "/swolify-fe-ruder/swolify-fe/static/js/main.e30b5606.js.map",
+    "787.0d80d98b.chunk.js.map": "/swolify-fe-ruder/swolify-fe/static/js/787.0d80d98b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31f8a55.css",
+    "static/js/main.e30b5606.js"
+  ]
+}
